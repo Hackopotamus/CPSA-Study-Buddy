@@ -30,7 +30,7 @@ Created by **Hackopotamus**, with the help of Claude.
 ## 🚀 Getting Started
 
 ### Option 1 — Just open it
-1. Download `cpsa-study-buddy.html` (or whatever you've named the file).
+1. Download `cpsa-study-buddy.html`.
 2. Open it in any modern browser (Chrome, Firefox, Edge, Safari).
 3. That's it — start studying.
 
